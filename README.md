@@ -7,8 +7,8 @@ This project was completed as part of the Cisco AICTE Virtual Internship Program
 **Tools Used:** Cisco Packet Tracer, a powerful network simulation tool provided by Cisco Systems.</br>
 **Components:** The network topology includes multiple VLANs, inter-VLAN routing, DHCP configuration, NAT configuration, security measures like access control lists (ACLs), and other relevant network configurations.</br>
 **Topology Design:** The design adheres to best practices in network architecture and Cisco standards to ensure scalability, efficiency, and security.</br>
-**Features:**</br>
 ****
+**Features:**</br>
 **Multi-Layered Design:** The topology is structured in multiple layers, including core, distribution, and access layers, to optimize network traffic flow and scalability.</br>
 **Redundancy:** Redundant links and devices are implemented to ensure high availability and fault tolerance.</br>
 **Security Measures**: Access control lists (ACLs) and other security features are configured to protect the network from unauthorized access and potential threats.</br>
