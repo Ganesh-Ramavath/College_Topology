@@ -1,8 +1,8 @@
 **Cisco AICTE Virtual Internship Program 2023**</br>
 **Description:**</br>
 This project was completed as part of the Cisco AICTE Virtual Internship Program in 2023. The main objective was to design a college network topology using Cisco Packet Tracer, a network simulation tool, to demonstrate practical networking skills and knowledge gained during the internship program.</br>
-**
-**Project Overview:****</br>
+****
+**Project Overview:**</br>
 **Objective:** Design a functional college network topology that encompasses various networking devices, such as routers, switches, servers, and end devices.</br>
 **Tools Used:** Cisco Packet Tracer, a powerful network simulation tool provided by Cisco Systems.</br>
 **Components:** The network topology includes multiple VLANs, inter-VLAN routing, DHCP configuration, NAT configuration, security measures like access control lists (ACLs), and other relevant network configurations.</br>
