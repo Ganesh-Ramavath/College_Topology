@@ -8,10 +8,12 @@ This project was completed as part of the Cisco AICTE Virtual Internship Program
 **Components:** The network topology includes multiple VLANs, inter-VLAN routing, DHCP configuration, NAT configuration, security measures like access control lists (ACLs), and other relevant network configurations.</br>
 **Topology Design:** The design adheres to best practices in network architecture and Cisco standards to ensure scalability, efficiency, and security.</br>
 **Features:**</br>
+****
 **Multi-Layered Design:** The topology is structured in multiple layers, including core, distribution, and access layers, to optimize network traffic flow and scalability.</br>
 **Redundancy:** Redundant links and devices are implemented to ensure high availability and fault tolerance.</br>
 **Security Measures**: Access control lists (ACLs) and other security features are configured to protect the network from unauthorized access and potential threats.</br>
 **Scalability**: The design is scalable to accommodate future growth and expansion of the college network infrastructure.</br></br>
+****
 **Instructions:**</br>
 To simulate the college network topology:
 
@@ -19,8 +21,10 @@ Download and install Cisco Packet Tracer from the official Cisco website (link: 
 Open the provided Packet Tracer file named College_Network_Topology.pkt.
 Start the simulation to observe the functionality of the network.
 Explore various configurations and settings within Packet Tracer to understand the implementation details.</br>
+****
 **Files Included:**</br>
 College_Network_Topology.pkt: Cisco Packet Tracer file containing the network topology design.</br>
 README.md: This file providing an overview of the project and instructions for simulation.</br>
+****
 **Credits:**</br>
 This project was completed by Ramavath Ganesh as part of the Cisco AICTE Virtual Internship Program 2023.
