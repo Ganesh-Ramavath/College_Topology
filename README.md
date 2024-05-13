@@ -1,4 +1,4 @@
-**Cisco AICTE Virtual Internship Program 2023**</hr>
+**Cisco AICTE Virtual Internship Program 2023**</br>
 **Description:**
 This project was completed as part of the Cisco AICTE Virtual Internship Program in 2023. The main objective was to design a college network topology using Cisco Packet Tracer, a network simulation tool, to demonstrate practical networking skills and knowledge gained during the internship program.
 **
